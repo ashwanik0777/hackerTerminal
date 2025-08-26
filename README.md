@@ -49,7 +49,7 @@ Each step appears with a realistic delay and animated ellipsis, making the exper
 
 ## 🖌️ Screenshots
 
-![Screenshot](https://user-images.githubusercontent.com/your-github-username/sample-hacker-terminal.png)
+![Screenshot](screenshot.png)
 <sub>*Replace with your screenshot if available!*</sub>
 
 ---
