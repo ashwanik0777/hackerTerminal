@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(14, 129, 14);
+
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: monospace;
+    line-height: 70px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
